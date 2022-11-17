@@ -5,7 +5,13 @@
 </p>
 
 - [📔 Implementações do Proejto](#-LinearLayout-DevMobileKotlin)
-
+    - [Design do Layout MainActivity](#Design-do-Layout)
+    - [Identificação de Elementos de Interface](#Indentificando-Elementos-de-Interface)
+    - [ViewBinding](#ViewBinding)
+    - [Evento de Click](#Evento-de-Click)
+    - [Lógica do Calculo](#Lógica-do-Calculo)
+    - [Validação de Dados](#Validação-de-Dados)
+    - [Implementação Extra](#Implementação-Extra)
     - [References](#References)
 
 

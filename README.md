@@ -5,7 +5,7 @@
 </p>
 
 - O projeto visa estudar o ViewGroup LinearLayout e as funcionalidades do Android utilizando
-o Kotlin
+o Kotlin, iniciando também a implementação do Material Design 3 através da documentação.
 
 - [📔 Implementações do Proejto](#-LinearLayout-DevMobileKotlin)
     - [Design do Layout MainActivity](#Design-do-Layout)

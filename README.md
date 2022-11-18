@@ -4,6 +4,9 @@
 <img src="https://github.com/diegobsilva10/LinearLayout-DevMobileKotlin/blob/main/app/src/main/res/drawable-v24/png.png?raw=true" width="300px"/>
 </p>
 
+- O projeto visa estudar o ViewGroup LinearLayout e as funcionalidades do Android utilizando
+o Kotlin
+
 - [📔 Implementações do Proejto](#-LinearLayout-DevMobileKotlin)
     - [Design do Layout MainActivity](#Design-do-Layout)
     - [Identificação de Elementos de Interface](#Indentificando-Elementos-de-Interface)

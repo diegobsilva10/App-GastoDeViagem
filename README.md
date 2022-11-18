@@ -3,6 +3,9 @@
 <p align = "center">
 <img src="https://github.com/diegobsilva10/LinearLayout-DevMobileKotlin/blob/main/app/src/main/res/drawable-v24/png.png?raw=true" width="300px"/>
 </p>
+<p align ="center">
+<img src="https://github.com/diegobsilva10/App-GastoDeViagem/blob/main/app/src/main/res/drawable-v24/material_design.png" width="450px"/>
+</p>
 
 - O projeto visa estudar o ViewGroup LinearLayout e as funcionalidades do Android utilizando
 o Kotlin, iniciando também a implementação do Material Design 3 através da documentação.

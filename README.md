@@ -21,7 +21,12 @@ o Kotlin, iniciando também a implementação do Material Design 3 através da d
     - [References](#References)
 
 
+## Design-do-Layout
 
+Design do Projeto proposto pelo Professor 
+<p align ="center">
+<img src="https://github.com/diegobsilva10/App-GastoDeViagem/blob/main/app/src/main/res/drawable-v24/solucao1.png" width="450px"/>
+</p>
 ## References
 
 - [Documentação Android]()

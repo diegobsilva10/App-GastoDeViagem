@@ -11,7 +11,7 @@
 o Kotlin, iniciando também a implementação do Material Design 3 através da documentação.
 
 - [📔 Implementações do Proejto](#-LinearLayout-DevMobileKotlin)
-    - [Design do Layout MainActivity](#Design-do-Layout)
+    - [Layout MainActivity](#Layout-MainActivity)
     - [Identificação de Elementos de Interface](#Indentificando-Elementos-de-Interface)
     - [ViewBinding](#ViewBinding)
     - [Evento de Click](#Evento-de-Click)
@@ -21,7 +21,7 @@ o Kotlin, iniciando também a implementação do Material Design 3 através da d
     - [References](#References)
 
 
-## Design-do-Layout
+## Layout-MainActivity
 
 ### Layout do Projeto proposto pelo Professor
 

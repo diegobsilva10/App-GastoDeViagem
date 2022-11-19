@@ -27,10 +27,9 @@ Layout do Projeto proposto pelo Professor
 
 <img src="https://github.com/diegobsilva10/App-GastoDeViagem/blob/main/app/src/main/res/drawable-v24/solucao1.png" width="250px"/>
 
-<center> O meu layout
-
+<p align="center">
 <img src="https://github.com/diegobsilva10/App-GastoDeViagem/blob/main/app/src/main/res/drawable-v24/solucao1.png" width="250px"/>
-</center>
+</p>
 
 
 

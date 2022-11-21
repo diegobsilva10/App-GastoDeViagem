@@ -17,6 +17,7 @@ o Kotlin, iniciando também a implementação do Material Design 3 através da d
     - [Evento de Click](#Evento-de-Click)
     - [Lógica do Calculo](#Lógica-do-Calculo)
     - [Validação de Dados](#Validação-de-Dados)
+    - [Configuração do Material Design](#Configuração-MaterialDesign)
     - [Implementação Extra](#Implementação-Extra)
     - [References](#References)
 

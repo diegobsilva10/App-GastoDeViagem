@@ -93,7 +93,7 @@
         android:padding="16dp"
         android:layout_marginTop="16dp"
         android:backgroundTint="@color/background_button"
-        android:text="Filled tonal button"
+        android:text="Calcular"
         />
 
 </LinearLayout>

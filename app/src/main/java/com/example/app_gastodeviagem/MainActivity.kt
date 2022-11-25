@@ -4,24 +4,43 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.*
+import com.example.app_gastodeviagem.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity(){
 
+    //Definida no escopo da classe
+    private lateinit var binding: ActivityMainBinding
+
     override fun onCreate(savedInstanceState: Bundle?) {
+
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+
+        binding =  ActivityMainBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
         //Evento de click
         val buttonCalcular: Button = findViewById(R.id.filled_tonal_button)
         buttonCalcular.setOnClickListener{
-            Toast.makeText(this,"EVENTO DE CLICK FUNCIONANDO",Toast.LENGTH_SHORT).show()
+            calculate()
         }
 
 
     }
 
     private fun calculate() {
-        TODO("Not yet implemented")
+
+        //BLOCO DE CÓDIGO TRANSFORMA OS EDIT TEXT EM NÚMERO FLOAT
+        val distance = binding.editDistance.text.toString().toFloat()
+        val price = binding.editPrice.text.toString().toFloat()
+        val autonomy = binding.editAutonomy.text.toString().toFloat()
+
+        //CALCULO DOS VALORES PEGADOS DOS EDIT TEXT
+        val totalValue = (distance * price) / autonomy
+        val totalValueStr = "R$ ${"%.2f".format(totalValue)}"
+
+        // Toast.makeText(this,totalValueStr,Toast.LENGTH_SHORT).show()
+
+        binding.textTotalValue.text = totalValueStr
     }
 
 

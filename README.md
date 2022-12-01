@@ -31,6 +31,10 @@ o Kotlin, iniciando também a implementação do Material Design 3 através da d
 
 ### Layout feito por mim
 
+<img src="https://github.com/diegobsilva10/App-GastoDeViagem/blob/main/app/src/main/res/drawable-v24/solucao2.jpg" width="250px"/>
+
+A idéia de alterar o layout do projeto original, era de começar a trabalhar o meu lado criativo, uso de paleta de cores, material design e etc.
+
 
 
 

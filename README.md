@@ -55,11 +55,9 @@ A idéia de alterar o layout do projeto original, era de começar a trabalhar o 
 
 
 ## References
-
-
-
-- [Documentação Android]()
-
+- [material-components-android](https://github.com/material-components/material-components-android/blob/master/docs/components/Button.md#elevated-button)
+- [Como usar as novas cores dinâmicas no Material Design 3 do Android](https://www.alura.com.br/artigos/usar-novas-cores-dinamicas-material-design-3-android)
+- [Curso - Desenvolvimento de Aplicativos Android usando Kotlin - Ministrado por: Gabriel Ferrari Ceron](https://www.udemy.com/course/curso-desenvolvedor-kotlin/)
 ##
 
 

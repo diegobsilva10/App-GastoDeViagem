@@ -3,7 +3,6 @@ package com.example.app_gastodeviagem
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import android.widget.*
 import com.example.app_gastodeviagem.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity(){
